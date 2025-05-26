@@ -2,7 +2,7 @@
 
 On this project, I configured an Ubuntu EC2 instance on AWS specifically for running a Graylog server, while maintaining consistent 24/7 uptime.
 
-##Requirements
+## Requirements
 
 Since I am running everything on AWS, I only used my AWS ROOT account.
 
